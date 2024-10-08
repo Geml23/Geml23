@@ -1,4 +1,4 @@
-Hello! I’m Adam Geml, a Software Engineer of 8 years living in Mountain View, CA. I’m primarily experienced in C/C++, ARM firmware, and serial communications software.
+Hello! I’m Adam Geml, a Software Engineer of 8 years living in Grand Rapids, MI. I’m primarily experienced in C/C++, ARM firmware, and serial communications software.
 - 🌱 I’m just starting this github in order to refresh my basics and tinker with code that interests me. 
 - 📫 I can be reached via email @ adam.c.geml@gmail.com
 
